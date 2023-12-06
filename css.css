@@ -27,6 +27,7 @@ body{
     font-family: 'Anton', sans-serif;
     color: #FFFFFF;
     font-size: 3.2rem;
+    padding-bottom: 10px;
 }
 .btn{
     border: none;
@@ -37,6 +38,7 @@ body{
 }
 .headerwrap{
     padding: 20px;
+    border-bottom: 3px solid rgba(255, 255, 255, 0.2);
 }
 .section_1_p{
     word-spacing: 10px; 
@@ -51,6 +53,9 @@ body{
     padding-top: 80px;
     padding-bottom: 8px;
     width: 30px;
+}
+.div_calendar{
+    margin-bottom: 25px;
 }
 .Month{
     color: #FFFFFF;
@@ -74,8 +79,31 @@ body{
     font-family: 'Space Grotesk', sans-serif;
     font-size: 1.6rem;
 }
+.Zahar{
+    color: #FFFFFF;
+}
 .frame{
     width: 200px;
+}
+.APY{
+    padding: 20px;
+}
+.learnmore_p{
+    color:  #0A0C0F;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 600px;
+}
+.foot{
+    padding: 20px;
+}
+.learnmore{
+    width: 100%;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+
 }
 @media screen and {
 
